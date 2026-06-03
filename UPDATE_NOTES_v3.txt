@@ -1,0 +1,16 @@
+NOURAN KHALLAF WEBSITE UPDATE — V3 PUBLICATION EXPANSION
+==========================================================
+
+This package preserves the original Clark website layout and images.
+
+Publication updates:
+- Expanded the publication archive to include the complete record assembled from the CV,
+  the earlier website list and verified online records.
+- Added Align and Shine (2026), which was not previously on the website.
+- Added AraSAS, the Routledge book chapter, Arabic legal-corpora article, Welsh public-facing
+  outputs and older conference entries.
+- Corrected the FreeTxt DOI to 10.1016/j.acorp.2024.100103.
+- Corrected the official LREC author order for the multilingual Easy-to-Read corpus paper.
+
+Included downloadable file:
+- files/Nouran_Khallaf_ORCID_All_Publications_Expanded.bib

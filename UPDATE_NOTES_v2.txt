@@ -1,0 +1,7 @@
+This v2 package keeps the original Clark site and integrates the preferred card sections.
+
+Changes from the previous update:
+- Research section now uses the stronger four-card contribution layout.
+- Skills section replaces progress bars with the cleaner card/tag layout.
+- Projects section keeps the original image gallery and adds a non-duplicative open-resources row underneath.
+- No separate top-level Resources section; resources are merged into Projects to avoid duplication.
